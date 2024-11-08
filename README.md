@@ -8,10 +8,12 @@ State Management with Redux: Utilizes Redux Toolkit for centralized state manage
 Shimmer Loading Effect: Enhances the user experience with a skeleton loader displayed during data fetch.
 Error Handling: User-friendly error messages for network issues or API failures.
 End-to-End Testing: Cypress tests cover data loading, sorting functionality, and UI elements.
+
 Technologies Used
 React and Redux Toolkit: Frontend framework and state management.
 Axios: For handling API requests.
 Cypress: End-to-end testing of functionality.
+
 Getting Started
 Clone the repository.
 Install dependencies: npm install
